@@ -2,9 +2,9 @@
 
 My name is Mahmud and I am a Software Engineer living in the US.
 
-🎓 Computer Science Senior @ UB  
-💻 Interested in Systems + Web Development  
-🚀 Building projects to become industry-ready  
+🎓 Computer Science Graduate | University at Buffalo
+💻 Interested in Systems + Web Development
+🚀 Passionate about building impactful software
 
 ## 🛠️ Tech Stack
 
